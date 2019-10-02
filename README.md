@@ -1,3 +1,3 @@
 # AI-Ml-Lab
 
-Lab Practicals
+Lab Practicals for AI ML Lab
